@@ -1,5 +1,3 @@
-# AISF-Application-Project
-
 # BipedalWalker-v3 RL Solution
 
 **Final Result:** 265.87 ± 43.46 points (Target: 300+)
