@@ -9,6 +9,7 @@
 **`BipedalWalker_Implementation.ipynb`** - Complete implementation containing all experiments, training code, evaluation, and visualization.
 
 **`BEST_Phase8_bipedal_walker (1).mp4`** - Video of the best performance.
+
 ---
 
 ## Notebook Structure
